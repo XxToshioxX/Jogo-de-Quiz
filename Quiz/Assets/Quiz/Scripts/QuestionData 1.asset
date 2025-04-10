@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3edc6c2cd91251a419dd9e86d268882e, type: 3}
+  m_Name: QuestionData 1
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "Qual osso est\xE1 destacado?"
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: 7baf9eb650c41eb4d9221bcf37f4142f, type: 3}
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+    options:
+    - "ZIGOM\xC1TICO"
+    - MAXILA
+    - MANDIBULA
+    - PARIETAL
+    correctAns: MANDIBULA
+  - questionInfo: "Qual osso est\xE1 destacado?"
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: a9adb9a775d7b544a8142c9e076e367f, type: 3}
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+    options:
+    - ETMOIDE
+    - NASAL
+    - TEMPORAL
+    - LACRIMAL
+    correctAns: NASAL
+  - questionInfo: "Qual osso est\xE1 destacado?"
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: c07d0f03f016c954b985b249b533536e, type: 3}
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+    options:
+    - MANUBIO
+    - MANDIBULA
+    - XIFOIDE
+    - MAXILA
+    correctAns: MAXILA
+  - questionInfo: "Qual osso est\xE1 destacado?"
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: e07e5044752e8484588afcaaefb43c33, type: 3}
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+    options:
+    - PARIETAL
+    - OCCIPITAL
+    - TEMPORAL
+    - ETMOIDE
+    correctAns: PARIETAL

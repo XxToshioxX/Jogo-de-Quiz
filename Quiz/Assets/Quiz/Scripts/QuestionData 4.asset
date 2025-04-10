@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3edc6c2cd91251a419dd9e86d268882e, type: 3}
+  m_Name: QuestionData 4
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "Quais destas s\xE3o fun\xE7\xF5es do tecido \xF3sseo?"
+    questionType: 1
+    qustionImg: {fileID: 0}
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+    options:
+    - Suporte
+    - "Prote\xE7\xE3o"
+    - "Produ\xE7\xE3o de eritr\xF3citos "
+    - Todas as alternativas
+    correctAns: Todas as alternativas
+  - questionInfo: "Qual a fun\xE7\xE3o osteoblastos"
+    questionType: 1
+    qustionImg: {fileID: 0}
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+    options:
+    - "Produ\xE7\xE3o matriz \xF3ssea"
+    - "Produ\xE7\xE3o eritr\xF3citos"
+    - "Reabsor\xE7\xE3o matriz \xF3ssea"
+    - Nenhuma das alternativas
+    correctAns: "Produ\xE7\xE3o matriz \xF3ssea"
+  - questionInfo: "Qual \xE9 a fun\xE7\xE3o dos osteoclastos?"
+    questionType: 1
+    qustionImg: {fileID: 0}
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+    options:
+    - "Reabsor\xE7\xE3o \xF2ssea"
+    - "Produ\xE7\xE3o matriz \xF3ssea"
+    - "Armazenamento de l\xEDpidios"
+    - "Produ\xE7\xE3o eritr\xF3citos"
+    correctAns: "Reabsor\xE7\xE3o \xF2ssea"
+  - questionInfo: Um osso tem que tipo(s) de tecido(s)?
+    questionType: 1
+    qustionImg: {fileID: 0}
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+    options:
+    - "\xD3sseo e nervoso "
+    - Cartilaginoso e epitelial
+    - Adiposo e conjuntivo denso
+    - Todas as alternativas
+    correctAns: Todas as alternativas

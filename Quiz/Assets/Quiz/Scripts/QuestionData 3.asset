@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3edc6c2cd91251a419dd9e86d268882e, type: 3}
+  m_Name: QuestionData 3
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "Qual osso/estrutura est\xE1 destacado?"
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: de819eb8b12a44a45b9436a1d8b9da69, type: 3}
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+    options:
+    - COSTELA
+    - "CLAV\xCDCULA"
+    - VERTEBRA
+    - ACROMIO
+    correctAns: "CLAV\xCDCULA"
+  - questionInfo: "Qual osso est\xE1 destacado?"
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: bd878ba098b7e764c8b5df35efc4b20f, type: 3}
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+    options:
+    - MANUBIO
+    - ESTERNO
+    - "ESC\xC1PULA"
+    - "\xDAMERO"
+    correctAns: "ESC\xC1PULA"
+  - questionInfo: "Qual osso est\xE1 destacado?"
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: 890cf3b561770b545889a5be5fea1b57, type: 3}
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+    options:
+    - MANUBIO
+    - COSTELA
+    - ESTERNO
+    - PARIETAL
+    correctAns: ESTERNO
+  - questionInfo: "Qual osso est\xE1 destacado?"
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: 90c1761cfa2ebd949b3ca976fff6eeef, type: 3}
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+    options:
+    - VERTEBRAS
+    - ESTERNO
+    - XIFOIDE
+    - MANUBIO
+    correctAns: XIFOIDE

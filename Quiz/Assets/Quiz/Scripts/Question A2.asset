@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3edc6c2cd91251a419dd9e86d268882e, type: 3}
+  m_Name: Question A2
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "Segundo a classifica\xE7\xE3o por formato de osso, o F\xCAMUR
+      pode ser considerado um osso..."
+    questionType: 1
+    qustionImg: {fileID: 0}
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+    options:
+    - Plano
+    - Sesamoide
+    - Curto
+    - Longo
+    correctAns: Longo
+  - questionInfo: "Segundo a classifica\xE7\xE3o por formato de osso, o ESTERNO pode
+      ser considerada um osso..."
+    questionType: 1
+    qustionImg: {fileID: 0}
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+    options:
+    - Longo
+    - Plano
+    - Irregular
+    - "Sem classifica\xE7\xE3o"
+    correctAns: Plano
+  - questionInfo: "Segundo a classifica\xE7\xE3o por formato de osso, a PATELA pode
+      ser considerada um osso..."
+    questionType: 1
+    qustionImg: {fileID: 0}
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+    options:
+    - Sesamoide
+    - Longo
+    - Curto
+    - Irregular
+    correctAns: Sesamoide
+  - questionInfo: "Segundo a classifica\xE7\xE3o por formato de osso, uma vert\xE9bra
+      pode ser considerada um osso..."
+    questionType: 1
+    qustionImg: {fileID: 0}
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+    options:
+    - Irregular
+    - Plano
+    - Longo
+    - Sesamoide
+    correctAns: Irregular

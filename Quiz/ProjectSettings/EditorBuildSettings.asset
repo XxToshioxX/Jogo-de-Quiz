@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Quiz/Scenes/Inicio.unity
+    guid: c642053654cd48849a5af90518c6fa11
+  - enabled: 1
+    path: "Assets/Quiz/Scenes/Identifica\xE7\xE3o/ID1.unity"
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: "Assets/Quiz/Scenes/Identifica\xE7\xE3o/ID2.unity"
+    guid: de53bf37d599a5f4a806f6309afde190
+  - enabled: 1
+    path: Assets/Quiz/Scenes/EscolhaSistema.unity
+    guid: fde9d55a66e313c49bd08c500787e0ac
+  - enabled: 1
+    path: Assets/Quiz/Scenes/EscolhaTeste.unity
+    guid: 46ecc66026a2cff4cbddd37f3c246a44
+  - enabled: 1
+    path: Assets/Quiz/Scenes/EscolhaNivel.unity
+    guid: 4c2b31111411fba409e031d7113b443a
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: "Assets/Quiz/Scenes/Identifica\xE7\xE3o/ID4.unity"
+    guid: c70c3e83ddd696a4b8afabfed2b474f6
+  - enabled: 1
+    path: Assets/Quiz/Scenes/EscolhaNivel1.unity
+    guid: 524020d9e7a1ad440807c1e429ef8df8
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Quiz/Scenes/Alternativas/A2.unity
+    guid: 93aa6326f9ce1464283f1834461d23e2
+  - enabled: 1
+    path: Assets/Quiz/Scenes/Alternativas/A1.unity
+    guid: 41ad41ffd53f63342bca18e737f6c0bd
+  - enabled: 1
+    path: Assets/Quiz/Scenes/Alternativas/A3.unity
+    guid: 73b1bcef51c2cf7439e99679029317c1
+  - enabled: 1
+    path: Assets/Quiz/Scenes/Alternativas/A4.unity
+    guid: 425862a951e1db7408ef03cd2bfe5bd8
+  - enabled: 1
+    path: Assets/Quiz/Scenes/Alternativas/RA.unity
+    guid: 1e635b138a06c254aa87d7a13be5c474
+  - enabled: 1
+    path: "Assets/Quiz/Scenes/Identifica\xE7\xE3o/ID3.unity"
+    guid: e2748ee987f361c48bf08d66d33b3e93
+  - enabled: 1
+    path: "Assets/Quiz/Scenes/Identifica\xE7\xE3o/IDR.unity"
+    guid: b7de1b87790a33546952f6439a6f5246
+  - enabled: 1
+    path: Assets/Quiz/Scenes/Help.unity
+    guid: a1a28bbbb63a672409a7ba3e0234abac
+  m_configObjects: {}
